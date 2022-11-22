@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/nobrecamila">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nobrecamila&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nobrecamila&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" widht="48%" src="https://github-readme-stats.vercel.app/api?username=nobrecamila&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" widht="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nobrecamila&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <div style="display: inline_block"><br>
